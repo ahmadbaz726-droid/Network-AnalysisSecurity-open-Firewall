@@ -18,5 +18,4 @@ I tested connectivity between network zones, checked firewall rules and carried 
 ## Project Outcome
 This project helped me understand how firewalls protect networks, how different rules affect traffic and why monitoring firewall logs is important.
 I also gained more practical experience with IPFire, Kali Linux and network security testing.
-## Project Evidence
-Screenshots of the IPFire configuration, network tests and firewall logs will be added here.
+
